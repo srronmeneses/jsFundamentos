@@ -1,0 +1,48 @@
+/* *{
+    margin: 0;
+    padding: 0; */
+/* } */
+body {
+    background: linear-gradient(to right, #0ee9ef, #edbf65);
+}
+section{
+    background-color: white;
+    border-radius: 5px;
+    margin: 0 auto;
+    padding: 20px;
+    width: 60%;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+section p {
+    font-size: 20px;
+}
+p span {
+    color: red;
+    font-weight: bold;
+}
+pre{
+    background-color:rgb(15, 13, 36);
+    border-radius: 10px;
+    color: white;
+    font-size: 15px;
+    margin: 0 auto;
+    width: 50%;
+}
+pre .variables{
+    color: #00d061;
+}
+pre .asig {
+    color: red;
+}
+pre .numBo {
+    color: blueviolet;
+}
+pre .coment {
+    color: gray;
+    font-style: italic;
+}
+.title {
+    color: red;
+    text-align: center;
+    font-size: 30px;
+}
