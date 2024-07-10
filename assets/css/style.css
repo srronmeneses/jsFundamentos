@@ -16,6 +16,9 @@ section{
 section p {
     font-size: 20px;
 }
+h2 > span {
+    color: red;
+}
 p span {
     color: red;
     font-weight: bold;
